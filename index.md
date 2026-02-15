@@ -1,6 +1,6 @@
-CVPR@Paris 2025 is a 1-day event that takes place June 6th 2025 in Paris. This event provides a local meeting prior to the <a href="https://cvpr.thecvf.com/">CVPR conference</a>. It aims at encouraging sustainability and inclusivity in Deep Learning and Computer vision research. All students and researchers are welcome to attend.
+CVPR@Paris 2026 is 1-day event that will take place on June 1st, 2026 in Paris. This event provides a local meeting prior to the <a href="https://cvpr.thecvf.com/">CVPR conference</a>. This is the second edition of the event after the first one in 2025 and aims at encouraging sustainability and inclusivity in Deep Learning and Computer vision research. All students and researchers are welcome to attend. 
 
-Authors of accepted papers at CVPR 2025, CVPR workshops, and recent international conference (ICLR 2025) are given the opportunity to present their work, through an oral presentation and/or a poster session. We may unfortunately not be able to accommodate all papers.
+Authors of accepted papers at CVPR 2026, CVPR workshops, and recent international conference (ICLR 2026) are given the opportunity to present their work, through an oral presentation and/or a poster session. We may unfortunately not be able to accommodate all papers.
 
 <h2>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSc694-5PLnDB8XEIE-QRK-8D-1YgV4Hl8IaBGWs0hOSQPOYDg/viewform?usp=dialog/" 
@@ -9,15 +9,22 @@ Authors of accepted papers at CVPR 2025, CVPR workshops, and recent internationa
   </a>
 </h2>
 
-The event is free but registration is mandatory. Registration are open <a href="https://docs.google.com/forms/d/e/1FAIpQLSc694-5PLnDB8XEIE-QRK-8D-1YgV4Hl8IaBGWs0hOSQPOYDg/viewform?usp=dialog"> here</a>, priority will be given to authors presenting a paper.
+<!-- The event is free but registration is mandatory. Registration are open <a href="https://docs.google.com/forms/d/e/1FAIpQLSc694-5PLnDB8XEIE-QRK-8D-1YgV4Hl8IaBGWs0hOSQPOYDg/viewform?usp=dialog"> here</a>, priority will be given to authors presenting a paper. -->
+
+The event is free but registration is mandatory. Registration will be opened soon and the details about how to register will be posted here. Priority will be given to authors presenting a paper.
 
 ## Venue
 
 <!-- This event will take place in Paris. -->
 
-This event will take place at [Espaces du campus des Cordeliers](https://www.sorbonne-universite.fr/universite/location-despaces/espaces-du-campus-des-cordeliers), in the center of Paris.
+<!-- This event will take place at [Espaces du campus des Cordeliers](https://www.sorbonne-universite.fr/universite/location-despaces/espaces-du-campus-des-cordeliers), in the center of Paris.
 
-Address: 15 rue de l'École-de-médecine 75006 Paris.
+Address: 15 rue de l'École-de-médecine 75006 Paris. -->
+
+This event will take place at [Sorbonne Center for Artificial Intelligence (SCAI)](https://scai.sorbonne-universite.fr/), on the Jussieu campus in Paris.
+
+Address: 4 Place Jussieu, 75005 Paris.
+
 
 <!-- To access by metro, go to station Jussieu on the line 10.
 
@@ -25,9 +32,11 @@ Address: 15 rue de l'École-de-médecine 75006 Paris.
 
 
 ## Schedule 
-The event is planned on June 6th.
+The event is planned for June 1st.
 
-| **Time** | **Description** |
+TBD
+
+<!-- | **Time** | **Description** |
 | -----| ----------- |
 | 09:30 AM - 10:00 AM | Coffe break and Opening |
 | 10:00 AM - 10:45 AM | Keynote: Alexei A. Efros (UC Berkeley) |
@@ -35,9 +44,9 @@ The event is planned on June 6th.
 | 12:30 PM - 02:00 PM | Lunch break |
 | 02:00 PM - 02:45 PM | Keynote: Diane Larlus (Naver Labs Europe)|
 | 03:00 PM - 03:45 PM | Keynote: Alexandre Alahi (EPFL)|
-| 04:00 PM - 05:30 PM | Poster Session 2 |
+| 04:00 PM - 05:30 PM | Poster Session 2 | -->
 
-Accepted posters can be found [here](https://docs.google.com/spreadsheets/d/1o1c242PUWKkwQcnq_dUMxO54Pgh8Uc1dwoLQLoLaVDg/edit?usp=sharing)
+<!-- Accepted posters can be found [here](https://docs.google.com/spreadsheets/d/1o1c242PUWKkwQcnq_dUMxO54Pgh8Uc1dwoLQLoLaVDg/edit?usp=sharing) -->
 
 <!-- ### Scientific presentations
 The presentations are divided into 6 thematic sessions, details are gathered <a href="docs/assets/Schedule_Talks.pdf"> here</a>. Each presentation will last 15 minutes. In the interest of time, questions should be deferred to the poster session. All oral presentations also have a poster presentation in the following poster session. -->
@@ -62,8 +71,8 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 
 ### Program Chairs
 
-<a href="https://mustafashukor.github.io/">Mustafa Shukor</a> (Sorbonne University) <br>
-<a href="https://raphael-baena.github.io/">Raphael Baena</a> (École des Ponts ParisTech, ENPC) <br>
+<a href="https://jayneelparekh.github.io/">Jayneel Parekh</a> (Sorbonne University) <br>
+<a href="https://pcouairon.github.io/">Paul Couairon</a> (École Polytechnique, IP Paris) <br>
 
 <!-- 
 ### Advising committee
@@ -85,7 +94,9 @@ This event is a part of the [ELLIS Pre-NeurIPS Fest 2024: Celebrate, Connect, Co
 
 ## Contact
 
-If you have any question, please contact us at [cvprinparis@gmail.com](mailto:neuripsinparis@gmail.com).
+<!-- If you have any question, please contact us at [cvprinparis@gmail.com](mailto:neuripsinparis@gmail.com). -->
+
+If you have any question, please contact us at [cvprinparis@gmail.com](mailto:cvprinparis@gmail.com).
 
 ---
 
