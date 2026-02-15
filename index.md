@@ -1,6 +1,6 @@
 CVPR@Paris 2026 is 1-day event that will take place on June 1st, 2026 in Paris. This event provides a local meeting prior to the <a href="https://cvpr.thecvf.com/">CVPR conference</a>. This is the second edition of the event after the first one in 2025 and aims at encouraging sustainability and inclusivity in Deep Learning and Computer vision research. All students and researchers are welcome to attend. 
 
-Authors of accepted papers at CVPR 2026, CVPR workshops, and recent international conference (ICLR 2026) are given the opportunity to present their work, through an oral presentation and/or a poster session. We may unfortunately not be able to accommodate all papers.
+Authors of accepted papers at CVPR 2026, CVPR workshops, and recent international conference (ICLR 2026) will be given the opportunity to present their work, through an oral presentation and/or a poster session. We may unfortunately not be able to accommodate all papers.
 
 <h2>
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSc694-5PLnDB8XEIE-QRK-8D-1YgV4Hl8IaBGWs0hOSQPOYDg/viewform?usp=dialog/" 
@@ -32,7 +32,7 @@ Address: 4 Place Jussieu, 75005 Paris.
 
 
 ## Schedule 
-The event is planned for June 1st.
+The event is planned for June 1st, 2026.
 
 TBD
 
