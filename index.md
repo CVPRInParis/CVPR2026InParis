@@ -3,7 +3,7 @@ CVPR@Paris 2026 is 1-day event that will take place on June 1st, 2026 in Paris. 
 Authors of accepted papers at CVPR 2026, CVPR workshops, and recent international conference (ICLR 2026) will be given the opportunity to present their work, through an oral presentation and/or a poster session. We may unfortunately not be able to accommodate all papers.
 
 <h2>
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSc694-5PLnDB8XEIE-QRK-8D-1YgV4Hl8IaBGWs0hOSQPOYDg/viewform?usp=dialog/" 
+  <a 
      style="text-decoration: none; color: inherit;">
     Registration
   </a>
