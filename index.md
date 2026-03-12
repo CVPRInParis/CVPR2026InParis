@@ -73,6 +73,7 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 
 <a href="https://jayneelparekh.github.io/">Jayneel Parekh</a> (Sorbonne University) <br>
 <a href="https://pcouairon.github.io/">Paul Couairon</a> (École Polytechnique, IP Paris) <br>
+<a href="https://raphael-baena.github.io/">Raphael Baena</a> (École des Ponts ParisTech, ENPC) <br>
 
 <!-- 
 ### Advising committee
