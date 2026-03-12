@@ -32,7 +32,7 @@ Address: 4 Place Jussieu, 75005 Paris.
 
 
 ## Schedule 
-The event is planned for June 1st, 2026.
+The event is planned for June 1st, 2026. Detailed schedule will be announced later.
 
 ### Speakers
 
