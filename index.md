@@ -34,7 +34,7 @@ Address: 4 Place Jussieu, 75005 Paris.
 ## Schedule 
 The event is planned for June 1st, 2026.
 
-### Keynote Speakers
+### Speakers
 
 <a href="https://www.robots.ox.ac.uk/~az/">Andrew Zisserman</a> (University of Oxford) <br>
 <a href="https://thoth.inrialpes.fr/~schmid/">Cordelia Schmid</a> (INRIA, Google) <br>
