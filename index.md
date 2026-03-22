@@ -11,7 +11,7 @@ Authors of accepted papers at CVPR 2026, CVPR workshops, and recent internationa
 
 <!-- The event is free but registration is mandatory. Registration are open <a href="https://docs.google.com/forms/d/e/1FAIpQLSc694-5PLnDB8XEIE-QRK-8D-1YgV4Hl8IaBGWs0hOSQPOYDg/viewform?usp=dialog"> here</a>, priority will be given to authors presenting a paper. -->
 
-The event is free but registration is mandatory. Registration will be opened soon and the details about how to register will be posted here. Priority will be given to authors presenting a paper.
+The event is free but registration is mandatory. Registration will be opened next week and the details about how to register will be posted here. Priority will be given to authors presenting a paper at CVPR 2026.
 
 ## Venue
 
