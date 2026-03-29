@@ -11,8 +11,7 @@ Authors of accepted papers at CVPR 2026, CVPR workshops, and recent internationa
 
 <!-- The event is free but registration is mandatory. Registration are open <a href="https://docs.google.com/forms/d/e/1FAIpQLSc694-5PLnDB8XEIE-QRK-8D-1YgV4Hl8IaBGWs0hOSQPOYDg/viewform?usp=dialog"> here</a>, priority will be given to authors presenting a paper. -->
 
-The event is free but registration is mandatory. Registration will be opened this week and the details about how to register will be posted here. Priority will be given to authors presenting a paper at CVPR 2026.
-
+The event is free but registration is mandatory. Registrations are now open on OpenReview <a href="https://openreview.net/group?id=cnrs.fr/CVPR-in-Paris/2026">here</a> Requests will be processed on a rolling basis. Priority will be given to authors presenting a paper at CVPR 2026.
 ## Venue
 
 <!-- This event will take place in Paris. -->
