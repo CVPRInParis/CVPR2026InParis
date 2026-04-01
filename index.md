@@ -16,13 +16,13 @@ The event is free but registration is mandatory. Registrations are now open on O
 
 <!-- This event will take place in Paris. -->
 
-<!-- This event will take place at [Espaces du campus des Cordeliers](https://www.sorbonne-universite.fr/universite/location-despaces/espaces-du-campus-des-cordeliers), in the center of Paris.
+This event will take place at [Espaces du campus des Cordeliers](https://www.sorbonne-universite.fr/universite/location-despaces/espaces-du-campus-des-cordeliers), in the center of Paris.
 
-Address: 15 rue de l'École-de-médecine 75006 Paris. -->
+Address: 15 rue de l'École-de-médecine 75006 Paris.
 
-This event will take place at [Sorbonne Center for Artificial Intelligence (SCAI)](https://scai.sorbonne-universite.fr/), on the Jussieu campus in Paris.
+<!-- This event will take place at [Sorbonne Center for Artificial Intelligence (SCAI)](https://scai.sorbonne-universite.fr/), on the Jussieu campus in Paris.
 
-Address: 4 Place Jussieu, 75005 Paris.
+Address: 4 Place Jussieu, 75005 Paris. -->
 
 
 <!-- To access by metro, go to station Jussieu on the line 10.
@@ -100,7 +100,7 @@ This event is a part of the [ELLIS Pre-NeurIPS Fest 2024: Celebrate, Connect, Co
 
 <!-- If you have any question, please contact us at [cvprinparis@gmail.com](mailto:neuripsinparis@gmail.com). -->
 
-If you have any question, please contact us at [cvprinparis2026@gmail.com](mailto:cvprinparis2026@gmail.com).
+If you have any question, please contact us at [cvprinparis@gmail.com](mailto:cvprinparis@gmail.com).
 
 ---
 
