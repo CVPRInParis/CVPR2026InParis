@@ -31,7 +31,16 @@ Address: 4 Place Jussieu, 75005 Paris. -->
 
 
 ## Schedule 
-The event is planned for June 1st, 2026. Detailed schedule will be announced later.
+The event is planned for June 1st, 2026. The tentative schedule (subject to change) is the following:
+
+| **Time** | **Description** |
+| 08:45 - 09:30 | Coffee break and Opening |
+| 09:30 - 10:10 | Keynote: Andrew Zisserman, Oxford, Deepmind |
+| 10:10 - 10:50 | Keynote: Gerard Pons-Moll, Tübingen |
+| 10:50 - 12:30 | Coffee break and poster session 1 |
+| 13:50 - 14:30 | Keynote: Cordelia Schmid, Inria, Google |
+| 14:30 - 15:10 | Keynote: TBD |
+| 15:10 - 17:00 | Coffee break and poster session 2 |
 
 ### Speakers
 
