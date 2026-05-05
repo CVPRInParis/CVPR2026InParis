@@ -46,6 +46,7 @@ The event is planned for June 1st, 2026. The tentative schedule (subject to chan
 ### Speakers
 
 <a href="https://www.robots.ox.ac.uk/~az/">Andrew Zisserman</a> (University of Oxford) <br>
+<a href="https://lihongyang.info/">Hongyang Li</a> (University of Hong Kong) <br>
 <a href="https://thoth.inrialpes.fr/~schmid/">Cordelia Schmid</a> (INRIA, Google) <br>
 <a href="https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html">Gerard Pons-Moll</a> (University of Tübingen) <br>
 
