@@ -75,6 +75,12 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 - we encourage participants to consider as much as possible not flying to the main NeurIPS conference.
  -->
 
+ ### Poster Sessions
+
+**Paper List**: The processing for waitlist posters is ongoing. The relevant authors will be notified in the coming days and the list of papers for poster presentation will be shared here. 
+
+**Poster Instructions**: Each poster will be displayed on a grid panel measuring 120cm (width) x 150 cm (height). These dimensions represent the maximum display space. Presenters are free to choose any template and dimension as long as it fits on the panel.
+
 ## Committees
 
 ### General Chairs
