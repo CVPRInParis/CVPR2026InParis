@@ -75,7 +75,8 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 - we encourage participants to consider as much as possible not flying to the main NeurIPS conference.
  -->
 
- ### Poster Sessions
+
+### Poster Sessions
 
 **Paper List**: The processing for waitlist posters is ongoing. The relevant authors will be notified in the coming days and the list of papers for poster presentation will be shared here. 
 
