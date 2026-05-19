@@ -123,6 +123,6 @@ If you have any question, please contact us at [cvprinparis@gmail.com](mailto:cv
 ---
 
 <img src="docs/assets/logo_scai.jpg" height="100">&nbsp;&nbsp;<img src="docs/assets/logo-hi-paris.png" height="100"><br />
-<img src="docs/assets/ellis-paris-unit.jpg" height="100">&nbsp;&nbsp;<img src="docs/assets/logo-CNRS.png" height="100"><br />
-<img src="docs/assets/ai4idf.svg" height="100">
+<img src="docs/assets/ellis-paris-unit.jpg" height="100"><br />
+<img src="docs/assets/logo-CNRS.png" height="100">&nbsp;&nbsp;<img src="docs/assets/ai4idf.svg" height="100">
 
