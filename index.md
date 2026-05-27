@@ -37,7 +37,7 @@ The event is planned for June 1st, 2026. The tentative schedule (subject to chan
 | --- | --- |
 | 08:45 - 09:30 | Coffee break and Opening |
 | 09:30 - 10:10 | Keynote: Andrew Zisserman, Oxford, Deepmind |
-| 10:10 - 10:50 | Keynote: Hongyang Li, Hong Kong |
+| 10:10 - 10:50 | Keynote: Hongyang Li, University of Hong Kong |
 | 10:50 - 12:30 | Coffee break and poster session 1 |
 | 13:50 - 14:30 | Keynote: Cordelia Schmid, Inria, Google |
 | 14:30 - 15:10 | Keynote: Gerard Pons-Moll, Tübingen |
@@ -46,7 +46,7 @@ The event is planned for June 1st, 2026. The tentative schedule (subject to chan
 ### Speakers
 
 <a href="https://www.robots.ox.ac.uk/~az/">Andrew Zisserman</a> (University of Oxford) <br>
-<a href="https://lihongyang.info/">Hongyang Li</a> (University of Hong Kong) <br>
+<a href="https://lihongyang.info/">Hongyang Li</a> (University of Hong Kong). <br>  &nbsp;&nbsp; Title: "Whole-body Intelligence with Human-centric Data at Scale" <br>
 <a href="https://thoth.inrialpes.fr/~schmid/">Cordelia Schmid</a> (INRIA, Google) <br>
 <a href="https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html">Gerard Pons-Moll</a> (University of Tübingen) <br>
 
@@ -124,5 +124,5 @@ If you have any question, please contact us at [cvprinparis@gmail.com](mailto:cv
 
 <img src="docs/assets/logo_scai.jpg" height="100">&nbsp;&nbsp;<img src="docs/assets/logo-hi-paris.png" height="100"><br />
 <img src="docs/assets/ellis-paris-unit.jpg" height="100"><br />
-<img src="docs/assets/logo-CNRS.png" height="100">&nbsp;&nbsp;<img src="docs/assets/ai4idf.svg" height="110"> &nbsp;&nbsp;<img src="docs/assets/logo_region_iledefrance.jpg" height="110"> 
+<img src="docs/assets/logo-CNRS.png" height="101">&nbsp;&nbsp;<img src="docs/assets/ai4idf.svg" height="110"> &nbsp;&nbsp;<img src="docs/assets/logo_region_iledefrance.jpg" height="110"> 
 
