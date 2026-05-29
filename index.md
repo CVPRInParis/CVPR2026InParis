@@ -60,7 +60,6 @@ The event is planned for June 1st, 2026. The tentative schedule (subject to chan
 | 03:00 PM - 03:45 PM | Keynote: Alexandre Alahi (EPFL)|
 | 04:00 PM - 05:30 PM | Poster Session 2 | -->
 
-<!-- Accepted posters can be found [here](https://docs.google.com/spreadsheets/d/1o1c242PUWKkwQcnq_dUMxO54Pgh8Uc1dwoLQLoLaVDg/edit?usp=sharing) -->
 
 <!-- ### Scientific presentations
 The presentations are divided into 6 thematic sessions, details are gathered <a href="docs/assets/Schedule_Talks.pdf"> here</a>. Each presentation will last 15 minutes. In the interest of time, questions should be deferred to the poster session. All oral presentations also have a poster presentation in the following poster session. -->
@@ -78,7 +77,7 @@ We aim to organize a local and sustainable alternative to in-person attendance t
 
 ### Poster Sessions
 
-**Paper List**: The processing for waitlist posters is ongoing. The relevant authors will be notified in the coming days and the list of papers for poster presentation will be shared here. 
+**Poster Program**: Accepted posters can be found [here](https://docs.google.com/spreadsheets/d/1m1berQqUBWaqle0-kb7pvUgI3MvlfWSLzpr8-45zfdc/edit?usp=sharing)
 
 **Poster Instructions**: Each poster will be displayed on a grid panel measuring 120cm (width) x 150 cm (height). These dimensions represent the maximum display space. Presenters are free to choose any template and dimension as long as it fits on the panel.
 
