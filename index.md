@@ -20,6 +20,10 @@ This event will take place at [Espaces du campus des Cordeliers](https://www.sor
 
 Address: 15 rue de l'École-de-médecine 75006 Paris.
 
+Website link: <a href="https://cvprinparis.github.io/CVPR2026InParis/">https://cvprinparis.github.io/CVPR2026InParis/</a>
+
+WiFi instructions: <a href="wifi.html">click here</a>
+
 <!-- This event will take place at [Sorbonne Center for Artificial Intelligence (SCAI)](https://scai.sorbonne-universite.fr/), on the Jussieu campus in Paris.
 
 Address: 4 Place Jussieu, 75005 Paris. -->
