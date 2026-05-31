@@ -1,6 +1,8 @@
 theme: jekyll-theme-minimal
 title: <br> <span style="color:grey"> CVPR@Paris 2026 June 1<sup>st</sup><br></span>
-description: ''
+description: >-
+  Website link: <a href="https://cvprinparis.github.io/CVPR2026InParis/">https://cvprinparis.github.io/CVPR2026InParis/</a><br><br>
+  WiFi instructions: <a href="wifi.html">click here</a>
 github:
   is_user_page: false
   is_project_page: false
