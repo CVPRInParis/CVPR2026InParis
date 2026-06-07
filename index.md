@@ -46,8 +46,8 @@ The event is planned for June 1st, 2026. The tentative schedule (subject to chan
 ### Speakers
 
 <a href="https://www.robots.ox.ac.uk/~az/">Andrew Zisserman</a> (University of Oxford) -- <a href="docs/keynote_slides/az_paris26.pdf" target="_blank"> Slides </a> <br>
-<a href="https://lihongyang.info/">Hongyang Li</a> (University of Hong Kong). <br>  &nbsp;&nbsp; Title: "Whole-body Intelligence with Human-centric Data at Scale" <br>
-<a href="https://thoth.inrialpes.fr/~schmid/">Cordelia Schmid</a> (INRIA, Google) <br>
+<a href="https://lihongyang.info/">Hongyang Li</a> (University of Hong Kong) -- <a href="docs/keynote_slides/Paris_Talk_whole-body-intelligence.pdf" target="_blank"> Slides </a> <br>
+<a href="https://thoth.inrialpes.fr/~schmid/">Cordelia Schmid</a> (INRIA, Google) -- <a href="docs/keynote_slides/presentation-cordelia.pdf" target="_blank"> Slides </a> <br>
 <a href="https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html">Gerard Pons-Moll</a> (University of Tübingen) -- [Slides](https://www.dropbox.com/scl/fi/jyjrp8835fst8hlbt2pkd/keynote_CVPR_2026.pptx?rlkey=7ebd6hipkbkn88asha89u6m2d&st=60s9ax4o&dl=0)<br>
 
 <!-- | **Time** | **Description** |
